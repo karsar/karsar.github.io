@@ -173,6 +173,21 @@ Starting version [v0.3.5](https://github.com/alshedivat/al-folio/releases/tag/v0
 
 ### Enabling automatic deployment
 
+There are two ways to deploy the site to GitHub Pages. Choose one based on your repository's Pages settings:
+
+#### Option A: GitHub Actions deployment (recommended)
+
+This method uses the `.github/workflows/jekyll.yml` workflow and deploys directly via GitHub Actions without creating a `gh-pages` branch.
+
+1. Click on **Actions** tab and **Enable GitHub Actions**.
+2. Go to `Settings -> Pages` and set **Build and deployment** source to **GitHub Actions**.
+3. Push any change to the `main` branch. The **Deploy Jekyll site to Pages** workflow will build and deploy the site automatically.
+4. After the workflow completes successfully, your site will be published at `https://<your-github-username>.github.io/`.
+
+> **Important:** For this method to work, the `jekyll.yml` workflow must specify a compatible Ruby version. The `Gemfile.lock` in this project requires Bundler 4.0.4 which needs Ruby >= 3.2.0. The workflow uses Ruby 3.3.5 to satisfy this requirement.
+
+#### Option B: Deploy via `gh-pages` branch (legacy)
+
 1. Click on **Actions** tab and **Enable GitHub Actions**; do not worry about creating any workflows as everything has already been set for you.
 2. Go to `Settings -> Actions -> General -> Workflow permissions`, and give `Read and write permissions` to GitHub Actions
 3. Make any other changes to your webpage, commit, and push to your main branch. This will automatically trigger the **Deploy** action.
