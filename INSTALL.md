@@ -18,6 +18,8 @@
     - [For personal and organization webpages](#for-personal-and-organization-webpages)
     - [For project pages](#for-project-pages)
     - [Enabling automatic deployment](#enabling-automatic-deployment)
+      - [Option A: GitHub Actions deployment (recommended)](#option-a-github-actions-deployment-recommended)
+      - [Option B: Deploy via gh-pages branch (legacy)](#option-b-deploy-via-gh-pages-branch-legacy)
     - [Manual deployment to GitHub Pages](#manual-deployment-to-github-pages)
     - [Deploy on <a href="https://www.netlify.com/" rel="nofollow">Netlify</a>](https://www.netlify.com/)
     - [Deployment to another hosting server (non GitHub Pages)](#deployment-to-another-hosting-server-non-github-pages)
