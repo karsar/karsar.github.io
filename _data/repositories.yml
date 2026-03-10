@@ -1,7 +1,14 @@
-github_users:
-  - karsar
-
 repo_description_lines_max: 2
 
 github_repos:
+  - karsar/PPI_hotspot_seq
+  - karsar/wordsCCNN
+  - karsar/sheaf_bagging
+  - karsar/loc_pref_validation
+  - karsar/molecular_data
+  - karsar/berry_agda
+  - karsar/ai-scientist-guards
+  - karsar/BioChemQA
+  - karsar/urweb-examples
+  - karsar/Oric-SMT
   - karsar/karsar.github.io

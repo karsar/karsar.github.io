@@ -68,6 +68,7 @@ schedule:
         url: /assets/pdf/example_pdf.pdf
       - name: Assignment 3
         url: /assets/pdf/example_pdf.pdf
+published: false
 ---
 
 ## Course Overview
