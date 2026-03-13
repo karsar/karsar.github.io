@@ -57,23 +57,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-a-two-decade-breakthrough-academia-sinica-team-and-ntu-hospital-unveil-panmetai-to-combat-the-king-of-cancers",
+          title: 'A Two-Decade Breakthrough: Academia Sinica Team and NTU Hospital Unveil “PanMETAI” to Combat...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-a-two-decade-breakthrough-academia-sinica-team-and-ntu-hospital-unveil-quot-panmetai-quot-to-combat-the-quot-king-of-cancers-quot",
-          title: 'A Two-Decade Breakthrough: Academia Sinica Team and NTU Hospital Unveil &amp;quot;PanMETAI&amp;quot; to Combat...',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/panmetai_press_release/";
-            },},{
+          section: "News",},{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
