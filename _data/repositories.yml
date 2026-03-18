@@ -1,6 +1,7 @@
 repo_description_lines_max: 2
 
 github_repos:
+  - karsar/hott_neuro
   - karsar/PPI_hotspot_seq
   - karsar/wordsCCNN
   - karsar/sheaf_bagging
