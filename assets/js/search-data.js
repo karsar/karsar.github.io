@@ -71,6 +71,9 @@ ninja.data = [{
             },},{id: "news-a-two-decade-breakthrough-academia-sinica-team-and-ntu-hospital-unveil-panmetai-to-combat-the-king-of-cancers",
           title: 'A Two-Decade Breakthrough: Academia Sinica Team and NTU Hospital Unveil “PanMETAI” to Combat...',
           description: "",
+          section: "News",},{id: "news-functorial-neural-architectures-from-higher-inductive-types-explained-and-preprint",
+          title: 'Functorial Neural Architectures from Higher Inductive Types — explained and preprint',
+          description: "",
           section: "News",},{
         id: 'social-scholar',
         title: 'Google Scholar',
