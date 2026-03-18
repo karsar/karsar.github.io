@@ -1,5 +1,8 @@
 {
   "devDependencies": {
+    "@babel/cli": "^7.28.6",
+    "@babel/core": "^7.29.0",
+    "@babel/preset-react": "^7.28.5",
     "@shopify/prettier-plugin-liquid": "^1.10.0",
     "prettier": "^3.8.0"
   }

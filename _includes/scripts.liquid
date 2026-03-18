@@ -114,6 +114,28 @@
   <script defer src="{{ '/assets/js/plotly-setup.js' | relative_url | bust_file_cache }}" type="text/javascript"></script>
 {% endif %}
 
+{% if page.react %}
+  <!-- React & ReactDOM -->
+  <script
+    defer
+    src="{{ site.third_party_libraries.react.url.js }}"
+    integrity="{{ site.third_party_libraries.react.integrity.js }}"
+    crossorigin="anonymous"
+  ></script>
+  <script
+    defer
+    src="{{ site.third_party_libraries.react-dom.url.js }}"
+    integrity="{{ site.third_party_libraries.react-dom.integrity.js }}"
+    crossorigin="anonymous"
+  ></script>
+  {% if page.react_script %}
+    <script
+      defer
+      src="{{ '/assets/js/' | append: page.react_script | append: '.js' | relative_url | bust_file_cache }}"
+    ></script>
+  {% endif %}
+{% endif %}
+
 {% if page.chart and page.chart.vega_lite %}
   <!-- Vega -->
   <script
