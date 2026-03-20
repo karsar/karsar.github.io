@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-16'
+  last_updated: '2026-03-20'
 papers:
   8CD9rAgAAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -18,7 +18,7 @@ papers:
     title: Identifying COVID-19 Drug-Sites Susceptible To Clinically Safe Zn-ejector Drugs Using Evolutionary/Physical Principles
     year: '2020'
   8CD9rAgAAAAJ:9ZlFYXVOiuMC:
-    citations: 719
+    citations: 718
     title: How molecular size impacts RMSD applications in molecular dynamics simulations
     year: '2017'
   8CD9rAgAAAAJ:GnPB-g6toBAC:
@@ -90,7 +90,7 @@ papers:
     title: 'Reliable Software in Bioinformatics: Sequence Aligment with Coq, Ada and SPARK'
     year: '2014'
   8CD9rAgAAAAJ:Wp0gIr-vW9MC:
-    citations: 90
+    citations: 91
     title: 'Preferred hydrogen-bonding partners of cysteine: implications for regulating Cys functions'
     year: '2016'
   8CD9rAgAAAAJ:ZeXyd9-uunAC:
