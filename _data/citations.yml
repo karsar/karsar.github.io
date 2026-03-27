@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-20'
+  last_updated: '2026-03-27'
 papers:
   8CD9rAgAAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -18,7 +18,7 @@ papers:
     title: Identifying COVID-19 Drug-Sites Susceptible To Clinically Safe Zn-ejector Drugs Using Evolutionary/Physical Principles
     year: '2020'
   8CD9rAgAAAAJ:9ZlFYXVOiuMC:
-    citations: 718
+    citations: 723
     title: How molecular size impacts RMSD applications in molecular dynamics simulations
     year: '2017'
   8CD9rAgAAAAJ:GnPB-g6toBAC:
@@ -29,8 +29,12 @@ papers:
     citations: 0
     title: Multi-Targeting of Functional Cysteines in Multiple Conserved
     year: Unknown Year
+  8CD9rAgAAAAJ:J_g5lzvAfSwC:
+    citations: 0
+    title: Functorial Neural Architectures from Higher Inductive Types
+    year: '2026'
   8CD9rAgAAAAJ:L8Ckcad2t8MC:
-    citations: 117
+    citations: 118
     title: Multi-targeting of functional cysteines in multiple conserved SARS-CoV-2 domains by clinically safe Zn-ejectors
     year: '2020'
   8CD9rAgAAAAJ:LkGwnXOMwfcC:
@@ -90,7 +94,7 @@ papers:
     title: 'Reliable Software in Bioinformatics: Sequence Aligment with Coq, Ada and SPARK'
     year: '2014'
   8CD9rAgAAAAJ:Wp0gIr-vW9MC:
-    citations: 91
+    citations: 92
     title: 'Preferred hydrogen-bonding partners of cysteine: implications for regulating Cys functions'
     year: '2016'
   8CD9rAgAAAAJ:ZeXyd9-uunAC:
@@ -142,7 +146,7 @@ papers:
     title: PanMETAI - a high performance tabular foundation model for accurate pancreatic cancer diagnosis via NMR metabolomics
     year: '2026'
   8CD9rAgAAAAJ:qUcmZB5y_30C:
-    citations: 78
+    citations: 79
     title: Synergistic inhibition of SARS-CoV-2 replication using disulfiram/ebselen and remdesivir
     year: '2021'
   8CD9rAgAAAAJ:qxL8FJ1GzNcC:
