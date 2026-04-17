@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-27'
+  last_updated: '2026-04-17'
 papers:
   8CD9rAgAAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -18,7 +18,7 @@ papers:
     title: Identifying COVID-19 Drug-Sites Susceptible To Clinically Safe Zn-ejector Drugs Using Evolutionary/Physical Principles
     year: '2020'
   8CD9rAgAAAAJ:9ZlFYXVOiuMC:
-    citations: 723
+    citations: 729
     title: How molecular size impacts RMSD applications in molecular dynamics simulations
     year: '2017'
   8CD9rAgAAAAJ:GnPB-g6toBAC:
@@ -38,7 +38,7 @@ papers:
     title: Multi-targeting of functional cysteines in multiple conserved SARS-CoV-2 domains by clinically safe Zn-ejectors
     year: '2020'
   8CD9rAgAAAAJ:LkGwnXOMwfcC:
-    citations: 18
+    citations: 19
     title: Arrangement of 3D structural motifs in ribosomal RNA
     year: '2010'
   8CD9rAgAAAAJ:M3NEmzRMIkIC:
@@ -94,11 +94,11 @@ papers:
     title: 'Reliable Software in Bioinformatics: Sequence Aligment with Coq, Ada and SPARK'
     year: '2014'
   8CD9rAgAAAAJ:Wp0gIr-vW9MC:
-    citations: 92
+    citations: 93
     title: 'Preferred hydrogen-bonding partners of cysteine: implications for regulating Cys functions'
     year: '2016'
   8CD9rAgAAAAJ:ZeXyd9-uunAC:
-    citations: 55
+    citations: 56
     title: How the local environment of functional sites regulates protein function
     year: '2020'
   8CD9rAgAAAAJ:Zph67rFs4hoC:
@@ -110,7 +110,7 @@ papers:
     title: Partition function zeros of the one-dimensional Blume-Capel model in transfer matrix formalism
     year: '2007'
   8CD9rAgAAAAJ:bEWYMUwI8FkC:
-    citations: 21
+    citations: 22
     title: Using protein language models for protein interaction hot spot prediction with limited data
     year: '2024'
   8CD9rAgAAAAJ:e5wmG9Sq2KIC:
@@ -122,7 +122,7 @@ papers:
     title: 'GeoPCA: a new tool for multivariate analysis of dihedral angles based on principal component geodesics'
     year: '2015'
   8CD9rAgAAAAJ:hMod-77fHWUC:
-    citations: 0
+    citations: 1
     title: 'Structural Enforcement of Statistical Rigor in AI-Driven Discovery: A Functional Architecture'
     year: '2025'
   8CD9rAgAAAAJ:hqOjcs7Dif8C:
@@ -142,11 +142,11 @@ papers:
     title: Sequence-motif detection of NAD (P)-binding proteins.
     year: '2014'
   8CD9rAgAAAAJ:ns9cj8rnVeAC:
-    citations: 0
+    citations: 1
     title: PanMETAI - a high performance tabular foundation model for accurate pancreatic cancer diagnosis via NMR metabolomics
     year: '2026'
   8CD9rAgAAAAJ:qUcmZB5y_30C:
-    citations: 79
+    citations: 80
     title: Synergistic inhibition of SARS-CoV-2 replication using disulfiram/ebselen and remdesivir
     year: '2021'
   8CD9rAgAAAAJ:qxL8FJ1GzNcC:
