@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-19'
+  last_updated: '2026-08-31'
 papers:
   8CD9rAgAAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -14,7 +14,7 @@ papers:
     title: "Protein\u2013protein docking using EMAP in CHARMM and support vector machine: Application to Ab/Ag complexes"
     year: '2013'
   8CD9rAgAAAAJ:4JMBOYKVnBMC:
-    citations: 9
+    citations: 10
     title: "PPI-hotspotID for detecting protein\u2013protein interaction hot spots from the free protein structure"
     year: '2024'
   8CD9rAgAAAAJ:70eg2SAEIzsC:
@@ -26,7 +26,7 @@ papers:
     title: Identifying COVID-19 Drug-Sites Susceptible To Clinically Safe Zn-ejector Drugs Using Evolutionary/Physical Principles
     year: '2020'
   8CD9rAgAAAAJ:9ZlFYXVOiuMC:
-    citations: 789
+    citations: 797
     title: How molecular size impacts RMSD applications in molecular dynamics simulations
     year: '2017'
   8CD9rAgAAAAJ:GnPB-g6toBAC:
@@ -58,7 +58,7 @@ papers:
     title: Combinatorial CNNs for words
     year: '2024'
   8CD9rAgAAAAJ:M3ejUd6NZC8C:
-    citations: 44
+    citations: 45
     title: 'Sequence-motif Detection of NAD(P)-binding Proteins: Discovery of a Unique Antibacterial Drug Target'
     year: '2014'
   8CD9rAgAAAAJ:MXK_kJrjxJIC:
@@ -118,11 +118,11 @@ papers:
     title: "YANG\u2013LEE AND FISHER ZEROS GENERALIZED ON SOME FAR-FROM-EQUILIBRIUM SYSTEMS"
     year: '2009'
   8CD9rAgAAAAJ:_FxGoFyzp5QC:
-    citations: 26
+    citations: 27
     title: Partition function zeros of the one-dimensional Blume-Capel model in transfer matrix formalism
     year: '2007'
   8CD9rAgAAAAJ:bEWYMUwI8FkC:
-    citations: 26
+    citations: 27
     title: Using protein language models for protein interaction hot spot prediction with limited data
     year: '2024'
   8CD9rAgAAAAJ:e5wmG9Sq2KIC:
@@ -138,7 +138,7 @@ papers:
     title: 'Structural Enforcement of Statistical Rigor in AI-Driven Discovery: A Functional Architecture'
     year: '2025'
   8CD9rAgAAAAJ:hqOjcs7Dif8C:
-    citations: 33
+    citations: 34
     title: Identifying RNA-binding residues based on evolutionary conserved structural and energetic features
     year: '2014'
   8CD9rAgAAAAJ:k_IJM867U9cC:
@@ -158,7 +158,7 @@ papers:
     title: Sequence-motif detection of NAD (P)-binding proteins.
     year: '2014'
   8CD9rAgAAAAJ:ns9cj8rnVeAC:
-    citations: 5
+    citations: 6
     title: PanMETAI - a high performance tabular foundation model for accurate pancreatic cancer diagnosis via NMR metabolomics
     year: '2026'
   8CD9rAgAAAAJ:qUcmZB5y_30C:
