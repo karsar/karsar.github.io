@@ -1,4 +1,5 @@
 ---
+published: false # hidden until the post is corrected
 layout: post
 title: Functorial Neural Architectures from Higher Inductive Types
 date: 2026-03-18 00:00:00
