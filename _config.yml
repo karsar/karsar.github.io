@@ -7,7 +7,7 @@ first_name: Karen
 last_name: Sargsyan
 contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Karen Sargsyan, Institute of Chemistry, Academia Sinica. Research on machine learning for chemistry and medicine, protein language models, metabolomics, causal inference and machine-checked mathematics.
+  Karen Sargsyan, Institute of Chemistry, Academia Sinica.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
