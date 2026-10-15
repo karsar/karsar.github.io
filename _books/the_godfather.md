@@ -1,4 +1,5 @@
 ---
+published: false # theme sample content, not shown
 layout: book-review
 title: The Godfather
 author: Mario Puzo

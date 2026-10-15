@@ -1,4 +1,5 @@
 ---
+published: false # theme sample content, not shown
 layout: page
 permalink: /teaching/
 title: teaching

@@ -1,4 +1,5 @@
 ---
+published: false # theme sample content, not shown
 layout: cv
 permalink: /cv/
 title: CV

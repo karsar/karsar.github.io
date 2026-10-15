@@ -1,4 +1,5 @@
 ---
+published: false # theme sample content, not shown
 layout: book-shelf
 title: bookshelf
 permalink: /books/
